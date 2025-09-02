@@ -2,5 +2,6 @@
   "name": "insighto-bridge1",
   "private": true,
   "version": "1.0.0",
-  "engines": { "node": "18.x" }
+  "engines": { "node": "22.x" }
 }
+
